@@ -15,6 +15,7 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 * Crowd-sourced
 * ~25 speakers
 * ~2+ Hours
+* ~2200 utterances
 * Audio has Unnecessary pauses at the beginning
 * Repo contains cleaned version of Original dataset found [here](https://github.com/iiscleap/NISP-Dataset)
 * Can expect minor mismatch with very few audio files, even after cleanup.
