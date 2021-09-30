@@ -1,12 +1,12 @@
 # Malayalam Speech Datasets
 
-Repository contains various cleaned malayalam ASR ( Automated Speech Recognition ) corpus and points to several other openly available datasets which are directly usable for training Speech Recognition Models.
+The repository contains various cleaned Malayalam ASR ( Automated Speech Recognition ) corpus and points to several other openly available datasets which are directly usable for training Speech Recognition Models.
 
-All credits goes to respective owners who has put efforts to create them. 
+All credits go to respective owners who have put efforts to create them. 
 
 Please do contact for any ownership related issues or if you wish to contribute a new dataset.
 
-##  Laballed Datasets
+##  Labelled Datasets
 
 Datasets which has got audio chunks and their corresponding transcriptions.
 
@@ -15,7 +15,7 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 * Crowd-sourced
 * ~25 speakers
 * ~2+ Hours
-* Audio has Unnecessary pauses at beginning
+* Audio has Unnecessary pauses at the beginning
 * Repo contains cleaned version of Original dataset found [here](https://github.com/iiscleap/NISP-Dataset)
 * Can expect minor mismatch with very few audio files, even after cleanup.
 
@@ -24,7 +24,7 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 * Studio recorded
 * 2 speakers
 * 8601 utterances
-* 13 hour 58 minutes 20 seconds
+* 13 hours 58 minutes 20 seconds
 * 48 kHz sampling rate
 
 #### [OpenSLR Malayalam](https://www.openslr.org/63/)
@@ -85,15 +85,11 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 
 ##  Un Labelled Datasets
 
-Basically, chunks of meaningfull malayalam audio which has got no text transcriptions
+Basically, chunks of meaningful Malayalam audio which has got no text transcriptions
 
 
 #### [ULCA](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus)
 
 *   600+ Hours
-*   Multiple Varities of speakers
-*   Machine generated
-
-
-
-
+*   Multiple Varieties of speakers
+*   Machine-generated
