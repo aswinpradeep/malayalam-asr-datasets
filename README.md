@@ -32,6 +32,7 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 * Studio Recorded HQ 
 * ~40 speakers
 * ~5 Hours
+* 4100 utterances
 * 48 kHz sampling rate
 
 ####  [Festvox IIITH Malayalam database](http://www.festvox.org/databases/iiit_voices/)
