@@ -79,7 +79,7 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 
 * Openly unavailable & Unreachable
 * Sample is not available
-* Domain sprcific - Agriculture
+* Domain specific - Agriculture
 * Claims to have 250hr + data with proper meta info
 
 
