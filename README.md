@@ -63,7 +63,7 @@ Datasets which has got audio chunks and their corresponding transcriptions.
 * ~18 hour+
 * English content included
 
-#### [PLT-FEMALE](https://nplt.in/demo/mal-female-speech-corpus-iltts)
+#### [NPLT-FEMALE](https://nplt.in/demo/mal-female-speech-corpus-iltts)
 
 * Paid dataset ( sample available for free )
 * ~17 hour+
